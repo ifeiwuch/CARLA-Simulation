@@ -1,1 +1,1 @@
-import carla
+%pip install carla
